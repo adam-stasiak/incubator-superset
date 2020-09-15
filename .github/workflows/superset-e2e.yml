@@ -84,4 +84,4 @@ jobs:
       if: always()
       with:
         name: cypress-videos
-        path: cypress/videos
+        path: /home/runner/work/incubator-superset/incubator-superset/superset-frontend/cypress-base/cypress/videos
